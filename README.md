@@ -1,16 +1,18 @@
-## Hi there 👋
+# Juan Rafael | RafaDev
 
-<!--
-**RafaDev-Code/RafaDev-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Junior Python Developer enfocado en backend, APIs y automatización.
 
-Here are some ideas to get you started:
+  Estoy construyendo proyectos propios con Python, FastAPI, JavaScript y OpenAI SDK, aplicados a casos reales como análisis de leads, asistentes web y herramientas operativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Stack actual
+
+  - Python
+  - FastAPI
+  - REST APIs
+  - JavaScript, HTML, CSS
+  - OpenAI SDK
+  - Git / GitHub
+
+  ## Proyectos destacados
+
+  - Sales Lead Assistant
