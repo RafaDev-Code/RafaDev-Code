@@ -1,4 +1,4 @@
-# Juan Rafael | RafaDev
+# Juan Rafael Romero | RafaDev
 
   Junior Python Developer enfocado en backend, APIs y automatización.
 
