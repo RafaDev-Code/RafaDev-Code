@@ -51,15 +51,6 @@ Demo que analiza mensajes predefinidos de potenciales clientes, muestra un brief
 
 [Plantilla que uso para cerrar una etapa](docs/plantilla-entrega.md).
 
-## Etapas anteriores de aprendizaje
-
-Conservo estos repositorios como registro del recorrido. Sus cierres distinguen lo realizado de la ruta que había planificado:
-
-- [OpenAI From Zero Lab](https://github.com/RafaDev-Code/openai-from-zero-lab): práctica inicial con el SDK y una ruta de estudio más amplia.
-- [Python From Zero Lab](https://github.com/RafaDev-Code/python-from-zero-lab): material y ejercicios de fundamentos.
-
-El aprendizaje continúa dentro de los próximos productos que entregue.
-
 ## Contacto
 
 Para conversar sobre una web o un catálogo, podés ver mi trabajo en [Rafa Crea](https://rafacreadigital.com.ar/) y escribirme por [Instagram](https://www.instagram.com/rafacreadigital/). Para conectar por desarrollo y proyectos, estoy en [LinkedIn](https://www.linkedin.com/in/juanrafaelromero/).

@@ -4,7 +4,7 @@
 
 ## Resultado
 
-El perfil presenta el trabajo desde el producto y su entrega con asistencia de IA. Explicita la etapa trainee técnica, enlaza una entrega pública verificable —Rafa Crea— y conserva las prácticas anteriores como parte del recorrido.
+El perfil presenta el trabajo desde el producto y su entrega con asistencia de IA. Explicita la etapa trainee técnica, enlaza la entrega publicada de Rafa Crea y muestra la demo de Sales Lead Assistant con su alcance definido.
 
 ## Evidencia
 
