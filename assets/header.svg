@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
   <title id="title">Rafael Romero · RafaDev / Rafa Crea</title>
-  <desc id="desc">Desarrollo web, APIs y automatización desde Argentina.</desc>
+  <desc id="desc">Productos web con ayuda de IA. De la idea a una entrega publicada.</desc>
   <rect width="1280" height="320" rx="24" fill="#172027"/>
   <path d="M52 56h46" stroke="#d7f83c" stroke-width="6" stroke-linecap="round"/>
   <text x="116" y="63" fill="#bbc5cc" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">RAFADEV / RAFA CREA</text>
   <text x="52" y="155" fill="#f4f0e8" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">Rafael Romero</text>
-  <text x="55" y="207" fill="#cbb7f5" font-family="Arial, Helvetica, sans-serif" font-size="29">Desarrollo web · APIs · Automatización</text>
+  <text x="55" y="207" fill="#cbb7f5" font-family="Arial, Helvetica, sans-serif" font-size="29">Productos web · IA · De la idea a producción</text>
   <text x="55" y="271" fill="#bbc5cc" font-family="Arial, Helvetica, sans-serif" font-size="19">ARGENTINA</text>
   <text x="1228" y="271" text-anchor="end" fill="#d7f83c" font-family="Arial, Helvetica, sans-serif" font-size="21">rafacreadigital.com.ar ↗</text>
   <g fill="none" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">

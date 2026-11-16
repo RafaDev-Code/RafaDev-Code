@@ -1,16 +1,18 @@
 <a href="https://rafacreadigital.com.ar/">
-  <img src="assets/header.svg" alt="Rafael Romero · Desarrollo web, APIs y automatización · RafaDev / Rafa Crea" width="100%">
+  <img src="assets/header.svg" alt="Rafael Romero · Productos web con ayuda de IA · De la idea a producción" width="100%">
 </a>
 
 # Hola, soy Rafael
 
-Desarrollo **webs para negocios, catálogos y herramientas de automatización** desde Argentina. Con **Rafa Crea** reúno mi trabajo de desarrollo web: desde la presentación de productos y servicios hasta la publicación y el mantenimiento del sitio.
+**Mi foco es pensar un producto con vos y llevar una versión concreta a producción, con ayuda de IA.**
 
-También construyo demos con **Python, FastAPI y OpenAI SDK** para explorar asistentes, análisis de consultas e integración de APIs.
+Soy Rafael, de Argentina. Trabajo en webs, catálogos y herramientas para negocios. Me interesa entender qué necesita la persona que va a usarlos, definir un alcance posible y recorrer el camino hasta una entrega que se pueda abrir, usar y revisar.
+
+Estoy en **etapa trainee en lo técnico**. Desarrollo con asistencia de IA, leo documentación y resuelvo problemas durante el proceso. Mi forma de avanzar es repetir entregas completas y llevarme aprendizaje de cada una.
 
 [Web y demos](https://rafacreadigital.com.ar/) · [LinkedIn](https://www.linkedin.com/in/juanrafaelromero/) · [Instagram de Rafa Crea](https://www.instagram.com/rafacreadigital/)
 
-## Rafa Crea · webs para negocios
+## Entrega publicada · Rafa Crea
 
 Landings, catálogos y sitios adaptados a cada marca, con diseño responsive y consultas por WhatsApp. El sitio reúne cuatro demos que se pueden recorrer en el navegador.
 
@@ -23,11 +25,13 @@ Landings, catálogos y sitios adaptados a cada marca, con diseño responsive y c
 | [Distrito · Barbería](https://rafacreadigital.com.ar/barberia/) | Servicios, estilos y elección de profesional para preparar una consulta. |
 | [Brasa · Gastronomía](https://rafacreadigital.com.ar/gastronomia/) | Carta por categorías y consultas por retiro, entrega o mesa. |
 
-**Stack:** Astro · TypeScript · Tailwind CSS · Cloudflare Pages.
+**Herramientas utilizadas:** Astro · TypeScript · Tailwind CSS · Cloudflare Pages.
+
+[Leer el caso: necesidad, alcance y entrega](docs/rafa-crea.md).
 
 Las demos representan negocios ficticios. Preparan consultas; la disponibilidad, los pagos y las reservas se coordinan con el negocio.
 
-## Código público · Sales Lead Assistant
+## Demo de aprendizaje · Sales Lead Assistant
 
 [**Ver repositorio →**](https://github.com/RafaDev-Code/sales-lead-assistant)
 
@@ -37,18 +41,24 @@ Demo que analiza mensajes predefinidos de potenciales clientes, muestra un brief
 - Respuestas y estilos disponibles según el mensaje seleccionado.
 - Modo de demostración sin claves; integración opcional con **OpenAI**.
 
-## Tecnologías con las que trabajo
+## Cómo quiero construir cada entrega
 
-| Área | Herramientas |
-| --- | --- |
-| Web | Astro, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| Backend y automatización | Python, FastAPI, APIs REST, OpenAI SDK |
-| Desarrollo y publicación | Git, GitHub, Cloudflare Pages |
+1. **Entender el problema:** para quién es el producto y qué necesita resolver.
+2. **Definir una primera versión:** recorrido principal, alcance y límites claros.
+3. **Construir con IA y documentación:** probar, revisar errores y ajustar.
+4. **Publicar y entregar:** dejar una versión usable, instrucciones y pendientes explícitos.
+5. **Aprender del cierre:** registrar qué entendí, qué necesito profundizar y qué mejoraría en el próximo producto.
 
-## Aprendizaje y experimentación
+[Plantilla que uso para cerrar una etapa](docs/plantilla-entrega.md).
 
-- [OpenAI From Zero Lab](https://github.com/RafaDev-Code/openai-from-zero-lab): ejercicios de SDK, respuestas estructuradas, tools y APIs.
-- [Python From Zero Lab](https://github.com/RafaDev-Code/python-from-zero-lab): fundamentos y práctica de Python.
+## Etapas anteriores de aprendizaje
+
+Conservo estos repositorios como registro del recorrido. Sus cierres distinguen lo realizado de la ruta que había planificado:
+
+- [OpenAI From Zero Lab](https://github.com/RafaDev-Code/openai-from-zero-lab): práctica inicial con el SDK y una ruta de estudio más amplia.
+- [Python From Zero Lab](https://github.com/RafaDev-Code/python-from-zero-lab): material y ejercicios de fundamentos.
+
+El aprendizaje continúa dentro de los próximos productos que entregue.
 
 ## Contacto
 
